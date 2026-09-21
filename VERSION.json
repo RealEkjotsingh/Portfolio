@@ -1,11 +1,11 @@
 {
-  "version": 7,
-  "edition": "Interactive-HD",
+  "version": 9,
+  "edition": "Dynamic-Contact",
   "entrypoint": "OPEN-PORTFOLIO.html",
   "editable_entrypoint": "index.html",
   "source_sha256": {
-    "index.html": "aaf29debb5e6bf6787b740d74dfbbadae2bec89d68e22e7e4576ea564ccf0846",
-    "styles.css": "3c916cec5ef6a810491da92550b4f4a461ebff9e145bb1117270eca5f9c6e51d",
-    "script.js": "f25ffde4001b89d9eb5852b9d1e5d225220c689079aeef28309968558903edbc"
+    "index.html": "cf7408787acdddf63391c6290ccdfcb35edfc34111a65111419dd4ba639a25f5",
+    "styles.css": "f3c2149c307caaab0df024fa1caf85e9cd7e7e0c7ba697af98095fe1a5b32fc3",
+    "script.js": "da63fda50b192b63ea6a75681ea012c8d0cbeb3fba04f739226a62210741c085"
   }
 }

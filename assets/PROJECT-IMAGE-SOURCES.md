@@ -1,19 +1,19 @@
-# Project image sources — V7
+# Project image sources — V8
 
-The user supplied these five replacements on 21 September 2026. Every active screenshot is a byte-for-byte copy of its corresponding upload. No image detail was generated, retouched or reconstructed.
+All five active project screenshots are original 1920 × 1080 PNGs supplied by the user. The four replacement uploads were received on 21 September 2026. Each screenshot is copied byte-for-byte, with no generated, retouched or reconstructed details. The Bhusandeswar screenshot is unchanged from V7, as requested.
 
-| Project | Supplied upload | Local asset | Actual dimensions | Supplied live URL |
+| Project | Supplied upload | Active asset | Dimensions | Project URL |
 | --- | --- | --- | --- | --- |
-| ET AI Awards 2026 | `download(5).png` | `projects/et-ai-awards-v7.png` | 320 × 180 | [ET AI Awards](https://economictimes.indiatimes.com/et-spotlight/et-ai-awards-2026) |
-| ET Partner With Us | `download(4).png` | `projects/et-partners-v7.png` | 320 × 180 | [ET Partners](https://economictimes.indiatimes.com/et-spotlight/et-partners) |
-| Flexichains | `download(6).png` | `projects/flexichains-login-v7.png` | 320 × 180 | [Flexichains](https://flexichains.com/login) |
+| ET AI Awards 2026 | `5224aadc-cc44-480a-a07a-38146e54b83d.png` | `projects/et-ai-awards-hd-v9.png` | 1920 × 1080 | [ET AI Awards](https://economictimes.indiatimes.com/et-spotlight/et-ai-awards-2026) |
+| ET Partner With Us | `edeeece3-7ddb-4017-8bfb-f77bea950324.png` | `projects/et-partners-hd-v8.png` | 1920 × 1080 | [ET Partners](https://economictimes.indiatimes.com/et-spotlight/et-partners) |
+| Flexichains | `7cc76eda-1317-463d-84ef-b20a8bb13f3d.png` | `projects/flexichains-login-hd-v8.png` | 1920 × 1080 | [Flexichains](https://flexichains.com/login) |
 | Bhusandeswar Temple | `c7788030-744e-4796-a66e-3a2d1d3cda79.png` | `projects/bhusandeswar-temple-hd.png` | 1920 × 1080 | [Bhusandeswar Temple](https://bhusandeswar.com/) |
-| SDLC Infotech | `5d9f335c-70f2-4b78-b06f-d1ac2de493bb.png` | `projects/sdlc-infotech-hd.png` | 1920 × 1080 | [SDLC Infotech](https://sdlc.alobhaapps.com/) |
+| SDLC Infotech | `6c71c256-19e3-47d1-a136-3ad739ec6db3.png` | `projects/sdlc-infotech-hd-v8.png` | 1920 × 1080 | [SDLC Infotech](https://sdlc.alobhaapps.com/) |
 
-SDLC replaces its illustrative cover. Bhusandeswar replaces the V6 thumbnail with the supplied full-HD capture. ET AI Awards, ET Partners and Flexichains remain low-resolution source images: CSS caps them at 320 × 180 and removes preview-image hover enlargement. This reduces avoidable blur without claiming to restore absent detail. They still need larger original screenshots for large, sharp previews.
-
-The Flexichains screenshot shows the public login page, not internal admin screens. These are supplied desktop captures; no mobile screenshot or new live capture was produced. Earlier assets remain unused in the repository. Project contributions remain based on the supplied résumé.
+The Flexichains image shows the public login page. Supplied desktop captures are not evidence of mobile layouts; no new live website capture was made. Images preserve their complete composition, and the screenshot inspector supports original-size viewing. About reuses these same project sources. Earlier sources remain unused in the repository and are omitted from the V8 ZIP.
 
 ## Portrait
 
-`ekjot-portrait-hq.png` remains an unchanged copy of the user's 1200 × 1200 `download 1.png`. The hero uses its existing alpha-only CSS mask and the header uses a CSS crop. No image synthesis, facial retouching, or pixel modification was applied.
+`ekjot-portrait-hq.png` remains an unchanged copy of the user's 1200 × 1200 `download 1.png`. The hero and About use the existing alpha-only mask; the header avatar uses a CSS crop. No image synthesis, facial retouching or pixel modification was applied. Decorative movement is limited to CSS positioning, light and abstract orbit lines.
+
+V9 replaces only the ET AI Awards screenshot with the new unchanged 1920 × 1080 upload. All other project originals and the portrait remain unchanged.
