@@ -1,0 +1,11 @@
+{
+  "version": 7,
+  "edition": "Interactive-HD",
+  "entrypoint": "OPEN-PORTFOLIO.html",
+  "editable_entrypoint": "index.html",
+  "source_sha256": {
+    "index.html": "aaf29debb5e6bf6787b740d74dfbbadae2bec89d68e22e7e4576ea564ccf0846",
+    "styles.css": "3c916cec5ef6a810491da92550b4f4a461ebff9e145bb1117270eca5f9c6e51d",
+    "script.js": "f25ffde4001b89d9eb5852b9d1e5d225220c689079aeef28309968558903edbc"
+  }
+}
