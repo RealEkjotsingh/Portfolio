@@ -894,7 +894,8 @@ function initContactForm() {
   const submitLabel = document.querySelector('#submit-label');
   const success = document.querySelector('#form-success');
   const emailLink = document.querySelector('#form-email-fallback');
-  const offline = location.protocol === 'file:';
+  // const offline = location.protocol === 'file:';
+  const offline = true;
   const profiles = {
     'A role on our team': { subject: 'Role / opportunity', placeholder: 'e.g. Product Designer', preference: 'Work arrangement', options: ['Remote','Hybrid','On-site','Let’s discuss'], message: 'Tell me about the opportunity', hint: 'The team, the role, and what you’d like to build together…', submit: 'Send opportunity' },
     'A project': { subject: 'Project / idea', placeholder: 'e.g. A new product website', preference: 'Ideal timeline', options: ['As soon as possible','Within a month','1–3 months','Exploring ideas'], message: 'Tell me about your project', hint: 'What are you making, who is it for, and where could I help?', submit: 'Send project enquiry' },
